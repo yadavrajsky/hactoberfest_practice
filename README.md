@@ -1,4 +1,4 @@
 # hactoberfest_practice
 Practice in Hactober
 This is amazing
-Merge Conflict 
+Merge Conflict by sudonomous Rahul
